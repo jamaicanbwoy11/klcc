@@ -65,7 +65,7 @@ class MortgageCalculator extends React.Component {
                 </form>
                 <div id="calculator-result">
                     <p>Total:</p>
-                    <p>£{this.state.total}</p>
+                    <p>RM{this.state.total}</p>
                 </div>
             </div>
         )

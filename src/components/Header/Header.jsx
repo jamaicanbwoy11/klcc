@@ -9,7 +9,7 @@ function Header() {
             <div className="full-navi">
                 <Navbar fixed="top" bg="dark" expand="lg">
                     <div className="navi container d-flex">
-                        <Link to="/" id="logo">Koras</Link>
+                        <Link to="/" id="logo">KLCC Properties</Link>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="mr-auto">

@@ -35,7 +35,7 @@ class ReviewForm extends React.Component {
                 <h3>Reviews</h3>
                 <h4>What are our customers saying?</h4>
                 <ul id="list">
-                    <li>John Smith - The best estate agency in London !</li>
+                    <li>John Smith - The best estate agency in Malaysia !</li>
                     <li>Emma Bower - They helped me to buy my own property. I recommend them !</li>
                     <li>Mark Elbert - I rented a flat with their help and I'm very happy !</li>
                 </ul>

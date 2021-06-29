@@ -112,8 +112,8 @@ class Product extends React.Component {
                         </div>
                         <div id="interest-section">
                             <h4>Interested in this property?</h4>
-                            <p>Call Koras</p>
-                            <a href="tel:020 3030 4040">020 3030 4040</a>
+                            <p>Call KLCC Properties</p>
+                            <a href="tel:000 000 000">000 300 000</a>
                         </div>
                     </div>
                 </Layout>

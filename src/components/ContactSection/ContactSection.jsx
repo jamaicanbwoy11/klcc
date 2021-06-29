@@ -8,14 +8,14 @@ function ContactSection() {
             <div className="container p-5">
                 <div>
                     <h2>Contact us</h2>
-                    <p>You can find us at our office in London.</p>
+                    <p>You can find us at our office in Malaysia.</p>
                     <div id="contact-phone">
                         <p>Call us</p>
-                        <a href="tel:020 3030 4040">020 3030 4040</a>
+                        <a href="tel:000 000 000">000 000 000</a>
                     </div>
                     <div id="contact-email">
                         <p>Email us</p>
-                        <a href="mailto:koras.agency@gmail.com">koras.agency@gmail.com</a>
+                        <a href="mailto:klcc.agency@gmail.com">klcc.agency@gmail.com</a>
                     </div>
                 </div>
                 <Link to="/contact">

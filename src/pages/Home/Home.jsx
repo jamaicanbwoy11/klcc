@@ -24,8 +24,8 @@ function Home() {
                         />
                         <Carousel.Caption>
                             <div className="head-title container">
-                                <h1>London Estate Agents</h1>
-                                <p>London Estate Agents specialising in property for sale and to rent in London.</p>
+                                <h1>Kuala Lumpur Agents</h1>
+                                <p>Kuala Estate Agents specialising in property for sale and to rent in Malaysia.</p>
                                 <Link to="/rent">
                                     <button>Rent a property</button>
                                 </Link>

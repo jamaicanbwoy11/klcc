@@ -85,8 +85,8 @@ function Buy() {
                     <MortgageCalculator />
                     <div className="interest-section">
                         <h4>Interested in one of the above properties?</h4>
-                        <p>Call Koras</p>
-                        <a href="tel:020 3030 4040">020 3030 4040</a>
+                        <p>Call KLCC Properties</p>
+                        <a href="tel:000 000 000">000 000 000</a>
                     </div>
                 </div>
             </Layout>

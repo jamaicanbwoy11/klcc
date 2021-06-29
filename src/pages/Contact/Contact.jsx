@@ -15,14 +15,14 @@ function Contact() {
                         <h1>Contact us</h1>
                         <div id="contact-page-phone">
                             <h5>Call us</h5>
-                            <a href="tel:020 3030 4040">020 3030 4040</a>
+                            <a href="tel:000 000 000">000 000 000</a>
                         </div>
                         <div id="contact-page-email">
                             <h5>Email us</h5>
-                            <a href="mailto:koras.agency@gmail.com">koras.agency@gmail.com</a>
+                            <a href="mailto:klcc.agency@gmail.com">klcc.agency@gmail.com</a>
                         </div>
                         <h5>Our address</h5>
-                        <p>1 Fake Street London FA1 1LO</p>
+                        <p>Kuala Lumpur Malaysia</p>
                     </div>
                 </div>
             </Layout>
